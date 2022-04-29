@@ -22,6 +22,7 @@ Use an imperative tone to describe what a commit does, rather than what it did.
 Examples, 
 
 ```bash
+🧸 [INIT] Inital commit
 🌙 [IMPL] Firebase implementation
 ⚡️ [BUGFIX] Notification bug fixed
 🍉 [REFACTOR] Address detail new structure integrated
