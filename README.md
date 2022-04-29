@@ -19,9 +19,9 @@ Subjects should be no greater than approx 50 characters, should have capitalized
 
 Use an imperative tone to describe what a commit does, rather than what it did. 
 Examples, 
-"🌙 [IMPL] Firebase implementation"
-"⚡️ [BUGFIX] Notification bug fixed"
-"😄 [REFACTOR] Address detail new structure integrated"
+- "🌙 [IMPL] Firebase implementation"
+- "⚡️ [BUGFIX] Notification bug fixed"
+- "😄 [REFACTOR] Address detail new structure integrated"
 
 ## Branch Strategy 
 All main branches or task branches should be create from development branch. 
