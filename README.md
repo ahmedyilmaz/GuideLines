@@ -7,10 +7,10 @@ Emojies should be unique per developer
 
 Emoji + TAG + Commit subject 
 
-* **[INIT]** creating a new project, initial commit
-* **[FIX]** fix a bug
-* **[IMPL]** code update with new tasks etc.
-* **[REFACTOR]** code refactoring
+* **[INIT]** Creating a new project, initial commit
+* **[FIX]** Fix a bug
+* **[IMPL]** Code update with new tasks etc.
+* **[REFACTOR]** Code refactor
 
 
 #### Commit Subject 
