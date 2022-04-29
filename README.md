@@ -4,6 +4,7 @@
 #### Commit Types
 
 The commit title consists of the type of the message and subject. The type is contained within the title and can be one of these types:
+Emojies should be unique per developer 
 
 Emoji + TAG + Commit subject 
 
