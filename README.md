@@ -19,9 +19,12 @@ Subjects should be no greater than approx 50 characters, should have capitalized
 
 Use an imperative tone to describe what a commit does, rather than what it did. 
 Examples, 
-- "🌙 [IMPL] Firebase implementation"
-- "⚡️ [BUGFIX] Notification bug fixed"
-- "😄 [REFACTOR] Address detail new structure integrated"
+
+```bash
+🌙 [IMPL] Firebase implementation
+⚡️ [BUGFIX] Notification bug fixed
+🍉 [REFACTOR] Address detail new structure integrated
+```
 
 ## Branch Strategy 
 All main branches or task branches should be create from development branch. 
@@ -33,6 +36,7 @@ And then you need to report this to your teammates
 
 Master  Branch is a release branch
 
+```bash
 -Development 
 -Master 
 -v1.0.0
@@ -40,4 +44,5 @@ Master  Branch is a release branch
   -[TaskID]-[TaskSubject]
 -v1.0.1
   -main
-  -[TaskID]-[TaskSubject]
+  -[TaskID]-[TaskSubject]  
+```
