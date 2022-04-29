@@ -48,3 +48,23 @@ Master  Branch is a release branch
   -main
   -[TaskID]-[TaskSubject]  
 ```
+
+## Folder & Naming Guideline 
+Controller and class names should be clearly understandable.
+
+- MainViewController
+- MainViewController+Constants
+- MainViewModel
+- MainViewModel+Models
+
+## Marking Guideline
+```bash
+  // MARK: - IBOutlets
+  // MARK: - Properties
+  // MARK: - Lifecycle Methods
+  // MARK: - Override Methods
+  // MARK: - Initializers & Setups
+  // MARK: - Methods
+  // MARK: - Selectors
+  // MARK: - IBActions
+```
