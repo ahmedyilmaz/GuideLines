@@ -1,5 +1,4 @@
 # GuideLines
-## Commits Style Guidelines
 
 #### Commit Types
 
@@ -49,7 +48,7 @@ Master  Branch is a release branch
   -[TaskID]-[TaskSubject]  
 ```
 
-## Folder & Naming Guideline 
+## Folder & Naming 
 Controller and class names should be clearly understandable.
 
 - MainViewController
@@ -57,7 +56,7 @@ Controller and class names should be clearly understandable.
 - MainViewModel
 - MainViewModel+Models
 
-## Marking Guideline
+## Marking
 ```bash
   // MARK: - IBOutlets
   // MARK: - Properties
