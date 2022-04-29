@@ -54,7 +54,6 @@ Controller and class names should be clearly understandable.
 - MainViewController
 - MainViewController+Constants
 - MainViewModel
-- MainViewModel+Models
 
 ## Marking
 ```bash
